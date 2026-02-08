@@ -1,0 +1,16 @@
+/* general */
+@import url("global/normalize.css");
+@import url("global/reboot.css");
+@import url("global/container.css");
+
+/* fonts */
+
+/* blocks */
+@import url("blocks/header.css");
+@import url("blocks/hero.css");
+@import url("blocks/aboutus.css");
+@import url("blocks/video.css");
+@import url("blocks/offer.css");
+@import url("blocks/quote.css");
+@import url("blocks/slider.css");
+@import url("blocks/services.css");
